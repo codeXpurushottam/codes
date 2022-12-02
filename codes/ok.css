@@ -1,0 +1,7 @@
+body{background-color: bisque;
+background-image:url("https://cdn.carbuzz.com/gallery-images/1600/587000/0/587009.jpg");}
+body{background-position-x: center; background-attachment: fixed; background-position-y: center;}
+background-image{opacity:0;}
+h2{text-align: center;
+text-decoration-style:double;}
+p{margin:66px}
